@@ -1,0 +1,6 @@
+D:\Documentos\SharpDevelop Projects\Miparte\Ejercicio14\bin\Debug\Ejercicio14.exe.config
+D:\Documentos\SharpDevelop Projects\Miparte\Ejercicio14\bin\Debug\Ejercicio14.exe
+D:\Documentos\SharpDevelop Projects\Miparte\Ejercicio14\bin\Debug\Ejercicio14.pdb
+D:\Documentos\SharpDevelop Projects\Miparte\Ejercicio14\obj\Debug\Ejercicio14.csprojResolveAssemblyReference.cache
+D:\Documentos\SharpDevelop Projects\Miparte\Ejercicio14\obj\Debug\Ejercicio14.exe
+D:\Documentos\SharpDevelop Projects\Miparte\Ejercicio14\obj\Debug\Ejercicio14.pdb

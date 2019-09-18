@@ -1,0 +1,6 @@
+D:\Documentos\SharpDevelop Projects\Miparte\Ejercicio7\obj\Debug\Ejercicio7.csprojResolveAssemblyReference.cache
+D:\Documentos\SharpDevelop Projects\Miparte\Ejercicio7\bin\Debug\Ejercicio7.exe.config
+D:\Documentos\SharpDevelop Projects\Miparte\Ejercicio7\bin\Debug\Ejercicio7.exe
+D:\Documentos\SharpDevelop Projects\Miparte\Ejercicio7\bin\Debug\Ejercicio7.pdb
+D:\Documentos\SharpDevelop Projects\Miparte\Ejercicio7\obj\Debug\Ejercicio7.exe
+D:\Documentos\SharpDevelop Projects\Miparte\Ejercicio7\obj\Debug\Ejercicio7.pdb
